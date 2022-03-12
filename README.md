@@ -52,7 +52,7 @@ TO BE ADDED HERE
 - We aim to add a storage facility wherein we can store the user's emotions and recommend activities for them.
 - We also aim to make it's use offline.
 
-## 👩🏻‍💻👩🏻‍💻Team behing Saathi
+## 👩🏻‍💻👩🏻‍💻Team behind Saathi
 
 <table align="center">
 <tr align="center">
