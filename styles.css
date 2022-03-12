@@ -144,6 +144,109 @@ text-align: center;
 color: #5C0C6B;
 }
 
+.back{
+    background: #5FE0BE;
+    border: 1px solid #844FC4;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    align-items: center;
+    text-align: center;
+    height: 30px;
+    
+    color: #5C0C6B;
+    }
+
 .img{
     align-items: center;
+}
+
+.mood .fantastic{
+    background: #F0C5B5;
+border: 1px solid #844FC4;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+width: 40px;
+height: 40px;
+left: 10px;
+border-radius: 10px;
+}
+
+/*.mood:hover .fantastic{
+    display: contents;
+    
+}
+*/
+
+.mood .good{
+    background: #D6B0A2;
+border: 1px solid #844FC4;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+width: 40px;
+height: 40px;
+left: 10px;
+
+}
+
+.mood .confused{
+
+    background: #B09388;
+border: 1px solid #844FC4;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+width: 40px;
+height: 40px;
+left: 10px;
+
+}
+
+.mood .sad{
+
+    background: #91776D;
+border: 1px solid #844FC4;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+width: 40px;
+height: 40px;
+left: 10px;
+
+}
+
+.mood .miserable{
+
+    background: #615049;
+border: 1px solid #844FC4;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+width: 40px;
+height: 40px;
+left: 10px;
+}
+
+.message{
+    width: 187px;
+left: 36px;
+top: 154px;
+}
+.message h2{
+
+background: #5FE0BE;
+border: 1px solid #844FC4;
+box-sizing: border-box;
+border-radius: 20px;
+height: 100px;
+text-align: center;
+
+
+
 }
