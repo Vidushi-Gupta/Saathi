@@ -234,10 +234,10 @@ left: 10px;
 }
 
 .message{
-    width: 187px;
-left: 36px;
-top: 154px;
+    
+text-align: center;
 }
+
 .message h2{
 
 background: #5FE0BE;
@@ -245,7 +245,14 @@ border: 1px solid #844FC4;
 box-sizing: border-box;
 border-radius: 20px;
 height: 100px;
+
 text-align: center;
+line-height: 20px;
+padding-top: 30px;
+margin-top: 20px;
+padding-bottom: 30px;
+padding-left: 5px;
+padding-right: 5px;
 
 }
 
