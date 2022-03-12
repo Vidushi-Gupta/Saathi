@@ -1,0 +1,17 @@
+{
+    "name": "Saathi",
+    "description": "An add-on to enter your feelings, emotions and do something about it",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["storage"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "logo.png"
+        }
+    }   
+
+}
