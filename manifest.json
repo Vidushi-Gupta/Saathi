@@ -3,6 +3,9 @@
     "description": "An add-on to enter your feelings, emotions and do something about it",
     "version": "1.0",
     "manifest_version": 3,
+     "authors": [ {
+        "name": "Vidushi Gupta, Namrata Agrawal"
+       } ],
     "background": {
         "service_worker": "background.js"
     },
