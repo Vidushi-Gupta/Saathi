@@ -47,6 +47,9 @@ Link to Figma File [here](https://www.figma.com/file/kt7tx5kEC6bcinxnpk80J6/Saat
 ### Add-on demo
 Please find the video that demonstrates the working of the add-on [here](https://stdntpartners-my.sharepoint.com/:v:/g/personal/vidushi_gupta_1_studentambassadors_com/ESikQy1UHv5KhpORUwzYrx8BYqEe-CcGzlxpnc-Y6CiAnw?e=1ARDi3)
 
+### Add-on pitch
+Please find the video that pitches Saathi [here](https://stdntpartners-my.sharepoint.com/:v:/g/personal/vidushi_gupta_1_studentambassadors_com/EfYFLo4yAq5GuE4q2v1lOpcBLZHieqAQ2B_ovGYRf3nwgg?e=ls4pdy)
+
 ## 🔨 How we built it
 
 | Software/ Language | Version |
