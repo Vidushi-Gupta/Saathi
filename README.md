@@ -12,6 +12,28 @@ Saathi is a browser extension which provides the user with either help or motiva
 ### Functionalities
 - Asks the user how they are feeling right now.
 - Suggests them a quote according to their emotion.
+- Connecting user to 5 different activities with different emotions.
+
+1. Mental Floss - Generate Random Live Facts 
+
+   <img src="https://github.com/Namrata-Agrawal/Saathi/blob/main/logo_images/Mental_Floss.png" width="50px" > 
+
+2. Wynk - Play Live Music
+
+   <img src="https://github.com/Namrata-Agrawal/Saathi/blob/main/logo_images/Wynk.jpg" width="50px" > 
+
+3. Skribbl - Guess & Draw with anyone from world
+
+   <img src="https://github.com/Namrata-Agrawal/Saathi/blob/main/logo_images/skribbl.jpg" width="50px"> 
+
+4. Zomato - Place your order
+
+   <img src="https://github.com/Namrata-Agrawal/Saathi/blob/main/logo_images/Zomato.png" width="50px">
+
+5. Raahee - Direction to Therapy
+
+   <img src="https://github.com/Namrata-Agrawal/Saathi/blob/main/logo_images/raahee.jpg" width="50px">
+
 - Provides link to [Raahee](https://raahee.in/) if the user needs to reach out for professional therapy/blogs/community on mental wellbeing.
 
 ### Extension UI screens
