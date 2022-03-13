@@ -30,7 +30,7 @@ Saathi is a browser extension which provides the user with either help or motiva
 
    <img src="https://github.com/Namrata-Agrawal/Saathi/blob/main/logo_images/Zomato.png" width="50px">
 
-5. Raahee - Direction to Therapy
+5. Raahee - Redirecting to an organization that can provide Therapy and other help in affordable prices
 
    <img src="https://github.com/Namrata-Agrawal/Saathi/blob/main/logo_images/raahee.jpg" width="50px">
 
