@@ -7,7 +7,7 @@ Mental health is often an overlooked and stigmatized issue in many developing co
 In order to contribute to promoting seeking help for mental well-being, we created Saathi!
 
 ## 👩🏻‍💻 What is Saathi?
-Saathi is a browser extension which provides the user with either help or motivation as per their emotions at that moment. In order to promote asking for help and considering mental wellbeing essential, we came up with Saathi.
+Saathi is a browser extension (add-on) which provides the user with either help or motivation as per their emotions at that moment. In order to promote asking for help and considering mental wellbeing essential, we came up with Saathi.
 
 ### Functionalities
 - Asks the user how they are feeling right now.
@@ -36,16 +36,16 @@ Saathi is a browser extension which provides the user with either help or motiva
 
 - Provides link to [Raahee](https://raahee.in/) if the user needs to reach out for professional therapy/blogs/community on mental wellbeing.
 
-### Extension UI screens
+### Add-on UI screens
 ![UI screens](https://user-images.githubusercontent.com/55969597/158029840-897c64ea-003f-49c1-9253-bd942a92b2c9.png)
 
 Link to Figma File [here](https://www.figma.com/file/kt7tx5kEC6bcinxnpk80J6/Saathi?node-id=0%3A1)
 
-### Extension prototyping
+### Add-on prototyping
 ![UIprototype](https://github.com/Vidushi-Gupta/Saathi/blob/main/assets/Extension-prototype.gif)
 
-### Extension demo
-TO BE ADDED HERE
+### Add-on demo
+Please find the video that demonstrates the working of the add-on [here](https://stdntpartners-my.sharepoint.com/:v:/g/personal/vidushi_gupta_1_studentambassadors_com/ESikQy1UHv5KhpORUwzYrx8BYqEe-CcGzlxpnc-Y6CiAnw?e=1ARDi3)
 
 ## 🔨 How we built it
 
