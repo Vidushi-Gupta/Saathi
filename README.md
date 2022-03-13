@@ -12,6 +12,7 @@ Saathi is a browser extension which provides the user with either help or motiva
 ### Functionalities
 - Asks the user how they are feeling right now.
 - Suggests them a quote according to their emotion.
+- Connecting user to 5 different activities with different emotions.
 - Provides link to [Raahee](https://raahee.in/) if the user needs to reach out for professional therapy/blogs/community on mental wellbeing.
 
 ### Extension UI screens
