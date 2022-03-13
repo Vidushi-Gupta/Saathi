@@ -62,6 +62,7 @@ TO BE ADDED HERE
 
 - It was a learning curve for Namrata. This was her first edge add-on and she did a great job in completing the Edge Add-on as a team. 
 - We managed to pull off our idea in very very short span of time.
+- We loved the idea of how we can suggest different activities based on how the user is feeling right now.
 
 ## 📖What did we learn?
 
